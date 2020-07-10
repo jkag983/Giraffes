@@ -29,3 +29,6 @@ images {
   width: 35px;
   float: left;
 }
+.test-box {
+  border: 2px solid red;
+}
