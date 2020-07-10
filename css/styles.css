@@ -1,0 +1,16 @@
+.intro {
+    font-style: italic;
+}
+.author {
+    color: red;
+    font-size: 12px;
+}
+p.author {
+    font-size: 24px;
+}
+.important {
+  color: red;
+}
+.unimportant {
+  color: blue;
+}
